@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragrafos</title>
+</head>
+<body>
+    <h1>Paragrafos e quebras de linhas</h1>
+    <hr>
+    <p>Você pode escrever um paragrafo de qualquer jeito.
+        Basta colocar tudo no meio do pade tags &lt;p&gt; e &lt;/p.&lt;
+    </p>
+    <P> Se precisar quebrar o texto em algum lugar especifico <br>como esse, basta usar a tag &lt;br&gt;.     
+    </P>
+</body>
+</html>
+
+
+Usando a tag <br> para quebrar a linha na frase

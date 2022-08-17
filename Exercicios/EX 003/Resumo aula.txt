@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com Imagens</title>
+</head>
+<body>
+    <h1>Testando carga de imagens</h1>
+    <p>Abaixo você vai ver uma imagem que esta na mesma pagina.</p>
+    <img src="logohtml.png" alt="Logo HTML5">                                                              Usar a tecla CTRL + ESPAÇO para pesquisar a imagem
+    <P>Podemos tambem carregar imagens que estão em sub-pastas</P>
+    <img src="imagens/logo-css.png" alt="LogoCSS3">
+    <P>Tambem podemos carregar imagens externas</P>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="Logo Javascript">
+
+
+</body>
+</html>

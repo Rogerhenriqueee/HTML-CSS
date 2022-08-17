@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo videos hospedados localmente</h1>
+    <p>Est6e video esta hospedado no meu proprio servidor</p>
+
+
+    <video width="500" poster="imagens/mao.jpg" controls>
+    <source src="midia/pexels-cup-of-couple-7657365 (1).mp4" type="video/mp4">
+    <p> Seu navegador nçao tem compatibilidade com reprodução de Videos</p>
+    </video>
+</body>
+</html>

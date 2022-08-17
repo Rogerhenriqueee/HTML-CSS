@@ -1,0 +1,16 @@
+@charset "UFT-8";
+
+
+body{
+    background-color: aqua;
+}
+
+h1 {
+    color: brown;
+}
+
+p{
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

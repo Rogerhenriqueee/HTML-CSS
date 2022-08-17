@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br"> (Linguagem do site )
+<head>  
+    <meta charset="UTF-8"> (Caracteres especiais)
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> ( scala da pagina)
+    <title>Meu primeiro exercicio</title> 
+</head>
+
+<body>
+ <h1>Olá, mundo!</h1> ( Titulo)
+ <hr> ( Linha horizontal)
+ <p>Esse é o meu primeiro documento HTML.</p>           ( Paragrafo)
+ <P>Este é um momento unico estou criando um site!</P> (Paragrafo)
+</body>
+
+</html>
