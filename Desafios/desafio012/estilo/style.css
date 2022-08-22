@@ -91,11 +91,3 @@ section#img02{
         background-size: cover;
 
 }
-
-
-footer{
-    background-image: linear-gradient(to bottom, rgb(163, 45, 45), black );
-    color: white;
-    padding: 2px;
-    text-align: center;
-}
